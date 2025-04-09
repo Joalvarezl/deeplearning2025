@@ -2,6 +2,7 @@
 
 import numpy as np
 
-matriz 3x3 que con valores numéricos aleatotios, ejemplo.
+matriz 2x2 que con valores numéricos aleatotios, ejemplo.
 
-matrix = np.array([[3,4,5],[4,6,8],[3,2,1])
+matrix = np.array([[4,5],[3,2])
+pritn(matrix)
